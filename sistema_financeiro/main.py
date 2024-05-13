@@ -61,6 +61,7 @@ def main():
             os.system('cls')
             print(f"Total Amount: {totalAmount()}")
         elif choice == 8:
+            os.system('cls')
             break
         else:
             os.system('cls')
