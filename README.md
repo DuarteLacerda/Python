@@ -3,7 +3,7 @@ Personal project – Just for fun and learning
 
 **Python Playground** is a personal repository where I collect programming exercises and small games developed in Python. The main goal is to practise logic, reinforce programming concepts, and explore the possibilities that Python offers.  
 
-This project is not linked to any course or academic work — it was created solely on my own initiative as a space for experimentation and continuous learning.  
+This project is not linked to any course or academic work — it was created solely on my initiative as a space for experimentation and continuous learning.  
 
 ## 🛠️ Technologies Used
 - Python 3.x
