@@ -1,41 +1,41 @@
-# Python 🐍  
-Personal project – Just for fun and learning  
+# Python 🐍
+Personal project – Just for fun and learning
 
-**Python Playground** é um repositório pessoal onde reúno exercícios de programação e pequenos jogos desenvolvidos em Python. O objetivo principal é praticar lógica, reforçar conceitos de programação e explorar as possibilidades que o Python oferece.  
+**Python Playground** is a personal repository where I collect programming exercises and small games developed in Python. The main goal is to practise logic, reinforce programming concepts, and explore the possibilities that Python offers.  
 
-Este projeto não está ligado a nenhuma cadeira ou trabalho académico — foi criado unicamente por iniciativa própria como espaço de experimentação e aprendizagem contínua.  
+This project is not linked to any course or academic work — it was created solely on my own initiative as a space for experimentation and continuous learning.  
 
-## 🛠️ Tecnologias Utilizadas  
-- Python 3.x  
-- Bibliotecas padrão do Python  
-- [pygame](https://www.pygame.org/) (para alguns jogos)  
+## 🛠️ Technologies Used
+- Python 3.x
+- Standard Python libraries  
+- [pygame](https://www.pygame.org/) (for some games)  
 
-## 🎮 Conteúdo  
-- Exercícios de lógica, estruturas de dados, e algoritmos  
-- Pequenos jogos interativos (como Snake, Pong, entre outros)  
-- Scripts úteis e projetos simples em Python  
+## 🎮 Content  
+- Exercises in logic, data structures, and algorithms  
+- Small interactive games (such as Snake, Pong, among others)  
+- Useful scripts and simple projects in Python  
 
-## 🚀 Como correr o projeto  
-1. Clona o repositório:  
-   ```bash  
+## 🚀 How to run the project  
+1. Clone the repository:
+```bash  
    git clone https://github.com/DuarteLacerda/Python.git  
    cd Python
-   ```  
-2. Garante que tens o Python instalado.  
-3. Para jogos que usam `pygame`, instala a biblioteca:  
+   ```
+2. Make sure you have Python installed.  
+3. For games that use `pygame`, install the library:  
    ```bash  
    pip install pygame  
    ```  
-4. Corre qualquer ficheiro com:  
-   ```bash  
-   python nome_do_ficheiro.py  
+4. Run any file with:  
+```bash  
+   python filename.py  
    ```
 
-## ⚠️ Nota  
-Este repositório foi criado apenas para fins educativos e recreativos. Não tem como objetivo ser um produto final ou comercial. Alguns projetos podem estar inacabados ou simplificados.  
+## ⚠️ Note  
+This repository was created for educational and recreational purposes only. It is not intended to be a final or commercial product. Some projects may be unfinished or simplified.  
 
-## 👤 Autor  
+## 👤 Author  
 Duarte Lacerda  
 
-## 📄 Licença  
-Este código é distribuído sem licença. Uso exclusivamente pessoal ou educativo.
+## 📄 Licence  
+This code is distributed without a license. For personal or educational use only.
