@@ -31,7 +31,7 @@ This project is not linked to any course or academic work — it was created sol
    python filename.py  
    ```
 
-## ⚠️ Note  
+## ⚠️ Disclaier
 This repository was created for educational and recreational purposes only. It is not intended to be a final or commercial product. Some projects may be unfinished or simplified.  
 
 ## 👤 Author  
